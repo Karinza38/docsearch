@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 [![DocSearch](.github/logo.svg)](https://docsearch.algolia.com)
 
