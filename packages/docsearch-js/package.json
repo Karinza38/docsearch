@@ -33,7 +33,7 @@
     "watch": "watch \"yarn on:change\" --ignoreDirectoryPattern \"/dist/\""
   },
   "dependencies": {
-    "@docsearch/react": "3.8.2",
+    "@docsearch/react": "3.0.0",
     "preact": "^10.0.0"
   },
   "devDependencies": {
